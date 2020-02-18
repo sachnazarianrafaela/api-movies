@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactone/static/css/main.d1b05096.chunk.css",
+    "main.js": "/reactone/static/js/main.f4a1d85a.chunk.js",
+    "main.js.map": "/reactone/static/js/main.f4a1d85a.chunk.js.map",
+    "runtime-main.js": "/reactone/static/js/runtime-main.4ad58568.js",
+    "runtime-main.js.map": "/reactone/static/js/runtime-main.4ad58568.js.map",
+    "static/js/2.9c189a81.chunk.js": "/reactone/static/js/2.9c189a81.chunk.js",
+    "static/js/2.9c189a81.chunk.js.map": "/reactone/static/js/2.9c189a81.chunk.js.map",
+    "index.html": "/reactone/index.html",
+    "precache-manifest.c3d485a8117262e56df4489ca1c1a98e.js": "/reactone/precache-manifest.c3d485a8117262e56df4489ca1c1a98e.js",
+    "service-worker.js": "/reactone/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/reactone/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.9c189a81.chunk.js.LICENSE.txt": "/reactone/static/js/2.9c189a81.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/reactone/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ad58568.js",
+    "static/js/2.9c189a81.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.f4a1d85a.chunk.js"
+  ]
+}
