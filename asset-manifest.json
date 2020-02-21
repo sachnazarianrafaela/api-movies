@@ -1,23 +1,14 @@
 {
-  "files": {
-    "main.css": "/reactone/static/css/main.d1b05096.chunk.css",
-    "main.js": "/reactone/static/js/main.f4a1d85a.chunk.js",
-    "main.js.map": "/reactone/static/js/main.f4a1d85a.chunk.js.map",
-    "runtime-main.js": "/reactone/static/js/runtime-main.4ad58568.js",
-    "runtime-main.js.map": "/reactone/static/js/runtime-main.4ad58568.js.map",
-    "static/js/2.9c189a81.chunk.js": "/reactone/static/js/2.9c189a81.chunk.js",
-    "static/js/2.9c189a81.chunk.js.map": "/reactone/static/js/2.9c189a81.chunk.js.map",
-    "index.html": "/reactone/index.html",
-    "precache-manifest.c3d485a8117262e56df4489ca1c1a98e.js": "/reactone/precache-manifest.c3d485a8117262e56df4489ca1c1a98e.js",
-    "service-worker.js": "/reactone/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/reactone/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.9c189a81.chunk.js.LICENSE.txt": "/reactone/static/js/2.9c189a81.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/reactone/static/media/logo.5d5d9eef.svg"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.4ad58568.js",
-    "static/js/2.9c189a81.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.f4a1d85a.chunk.js"
-  ]
+  "main.css": "/api-movies/static/css/main.14a6b0e0.chunk.css",
+  "main.js": "/api-movies/static/js/main.f48894f7.chunk.js",
+  "main.js.map": "/api-movies/static/js/main.f48894f7.chunk.js.map",
+  "static/js/1.3e2336fb.chunk.js": "/api-movies/static/js/1.3e2336fb.chunk.js",
+  "static/js/1.3e2336fb.chunk.js.map": "/api-movies/static/js/1.3e2336fb.chunk.js.map",
+  "runtime~main.js": "/api-movies/static/js/runtime~main.06332cbf.js",
+  "runtime~main.js.map": "/api-movies/static/js/runtime~main.06332cbf.js.map",
+  "static/media/logo.png": "/api-movies/static/media/logo.314e613c.png",
+  "static/css/main.14a6b0e0.chunk.css.map": "/api-movies/static/css/main.14a6b0e0.chunk.css.map",
+  "index.html": "/api-movies/index.html",
+  "precache-manifest.382c9d0f977b8b6c20777fb6fedf598f.js": "/api-movies/precache-manifest.382c9d0f977b8b6c20777fb6fedf598f.js",
+  "service-worker.js": "/api-movies/service-worker.js"
 }
