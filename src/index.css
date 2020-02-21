@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  padding: 15px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.movie-logo-link img{
+ display:inline-block;
+ position:relative;
+ height: 180px;
+}
+a:hover{
+ text-decoration: none;
+
+}
+/* search + clear buttons */
+.btn-primary {
+  background-color:black;
+  border-color: #fff;
+}
+.btn-primary:hover {
+  color: #fff;
+  background:rgb(54, 54, 54);
+  border-color:#fff;
+}
+.btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle {
+  color: #fff;
+  background:rgb(54, 54, 54);
+  border-color: black;
+}
+.btn-primary:focus {
+  box-shadow: 0 0 0 0.2rem rgba(12, 12, 12, 0.5);
+}
+.btn-primary:not(:disabled):not(.disabled):active:focus, .show>.btn-primary.dropdown-toggle:focus {
+  box-shadow: 0 0 0 0.2rem rgba(25, 25, 26, 0.5);
+}
+/* ------------- */
+
+.jumbotron-fluid {
+  padding-right: 0;
+  padding-left: 0;
+  border-radius: 10px;
+}
+.form-control {
+  border-radius: 10px;
+}
+.footer{
+margin-top:15rem;
+margin-left:5rem;
+margin-right:5rem;
+border-radius: 10px;
+}
+.fa-chevron-right:before{
+  padding-left:10px;
+}
